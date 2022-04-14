@@ -9,7 +9,7 @@ export default function Header() {
                 <img src={logo} alt='' />
                 <h1>ToDo</h1>
             </div>
-            <button clssName={css.button}>Clisk me</button>
+            <button className={css.button}>Clisk me</button>
         </header>
     )
 }
