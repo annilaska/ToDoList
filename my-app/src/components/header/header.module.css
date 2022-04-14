@@ -1,0 +1,16 @@
+.header {
+	background: #6464d4;
+	padding: 20px 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header button {
+	width: 100px;
+	height: 30px;
+}
+
+.header img {
+	width: 50px;
+}
