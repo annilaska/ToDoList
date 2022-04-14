@@ -1,0 +1,14 @@
+.footer {
+    background: #c7c7c7;
+    padding: 10px 20px;
+}
+
+.icon {
+    width: 15px;
+    margin: 0 7px;
+}
+
+.contacts {
+    display: flex;
+    align-items: center;
+}
