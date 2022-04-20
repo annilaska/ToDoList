@@ -1,5 +1,5 @@
 const mock = {
-	activeUserId: null,
+	activeUserId: 1,
 	users: [
 		{
 			id: 1,
